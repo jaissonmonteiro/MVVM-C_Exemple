@@ -7,4 +7,7 @@ O Projeto foi desenvolvido na linguagem swift utilizando a arquitetura MVVM-c ju
 
 Além disso, criei um unit test simples para testar a viewModel da controladora de visualização de lista de tarefas.
 
-Para rodar o projeto na sua máquina, instale o cocoa pods, caso ainda não tenha instalado, e depois rode o comando 'pod install' para instalar todas as dependências.
+Para rodar o projeto na sua máquina, instale o cocoa pods, caso ainda não tenha instalado, e depois rode o comando 'pod install' para instalar todas as dependências. Com todas as dependências instaladas, abra o 'MVVM-C_Exemple.xcworkspace' no seu xcode.
+
+### Contato
+Entre em contato comigo pelo whats '51995011230' ou e-mail 'jaisson.monteiroo@gmai.com' caso tenha alguma sugestão ou dúvida.
