@@ -1,4 +1,4 @@
-# MVVM-Exemple
+# MVVM-C Exemple
 
 ## Descrição
 Esse é um projeto simples de lista de tarefas. O app possui apenas duas features: listar as tarefas em uma visualização com tabela e, abrir os detalhes da tarefa clicando na célula da tabela.
